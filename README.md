@@ -1,4 +1,4 @@
-Sex/Gender Predictions
+**Sex/Gender Predictions**
 
 This repository contains the Jupyter Notebook based implementation of the work described in: [citation to be updated]. 
 
